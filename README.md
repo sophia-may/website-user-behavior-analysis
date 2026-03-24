@@ -14,3 +14,7 @@ E-commerce user behavior dataset including session activity, time on site, and p
 ## Tools Used
 - Python (pandas, matplotlib)  
 - Power BI  
+
+## Dataset
+The dataset is available on Kaggle:
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
