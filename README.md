@@ -5,6 +5,8 @@ Analyze user behavior data to understand conversion patterns and identify opport
 
 ## Dataset
 E-commerce user behavior dataset including session activity, time on site, and purchase events.
+The dataset is available on Kaggle:
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 ## Key Insights
 - Users with longer session duration are more likely to convert  
@@ -15,6 +17,3 @@ E-commerce user behavior dataset including session activity, time on site, and p
 - Python (pandas, matplotlib)  
 - Power BI  
 
-## Dataset
-The dataset is available on Kaggle:
-https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
